@@ -5,6 +5,9 @@ public class Message
     String message;
     String name;
     String key;
+	
+	String s;
+	int =9;
 
     public Message()
     {}
